@@ -1,0 +1,22 @@
+[
+    {
+        "id": "10",
+        "name": "Pizaa",
+        "image": "pizza.jpg"
+    },
+    {
+        "id": "11",
+        "name": "BBQ",
+        "image": "nuong.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Gà rán",
+        "image": "garan.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Burger",
+        "image": "buger.jpg"
+    }
+]
