@@ -1,0 +1,98 @@
+[
+    {
+        "id": "11",
+        "name": "Pizza Hải Sản",
+        "id_type": "10",
+        "price": "123"
+    },
+    {
+        "id": "12",
+        "name": "Pizza Bò Nướng",
+        "id_type": "10",
+        "price": "155"
+    },
+    {
+        "id": "13",
+        "name": "Pizza phô mai",
+        "id_type": "10",
+        "price": "162"
+    },
+    {
+        "id": "14",
+        "name": "Pizza nhân nhồi",
+        "id_type": "10",
+        "price": "250"
+    },
+    {
+        "id": "15",
+        "name": "BBQ sườn heo nướng sate",
+        "id_type": "11",
+        "price": "320"
+    },
+    {
+        "id": "16",
+        "name": "BBQ má heo nướng",
+        "id_type": "11",
+        "price": "210"
+    },
+    {
+        "id": "17",
+        "name": "BBQ ba rọi heo nướng",
+        "id_type": "11",
+        "price": "234"
+    },
+    {
+        "id": "18",
+        "name": "BBQ Bò nướng xiên que",
+        "id_type": "11",
+        "price": "223"
+    },
+    {
+        "id": "19",
+        "name": "Gà rán KFC",
+        "id_type": "12",
+        "price": "139"
+    },
+    {
+        "id": "20",
+        "name": "Gà rán phô mai",
+        "id_type": "12",
+        "price": "110"
+    },
+    {
+        "id": "21",
+        "name": "Gà rán sốt ca",
+        "id_type": "12",
+        "price": "234"
+    },
+    {
+        "id": "22",
+        "name": "Gà rán mật ong",
+        "id_type": "12",
+        "price": "150"
+    },
+    {
+        "id": "23",
+        "name": "Burger phô mai xanh",
+        "id_type": "13",
+        "price": "150"
+    },
+    {
+        "id": "24",
+        "name": "Burger cá hồi",
+        "id_type": "13",
+        "price": "120"
+    },
+    {
+        "id": "25",
+        "name": "Burger nướng Hàn Quốc",
+        "id_type": "13",
+        "price": "190"
+    },
+    {
+        "id": "26",
+        "name": "Burger Silton",
+        "id_type": "13",
+        "price": "130"
+    }
+]
